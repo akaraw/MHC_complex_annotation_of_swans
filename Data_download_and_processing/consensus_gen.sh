@@ -7,22 +7,6 @@ cd-hit-est -c 0.8 -i all_MHC1.fa -o /dev/stdout -G 1 #all_MHC?.fa contains all t
 muscle -in mhc2.clust0.fa  | tee mhc2.clust0.aln.fa | head
  
 #then the aligned seq from each class of MHC in each sluter were used for consensus generation as follows:
-#e.g., 
-#conda activate r
-#R
-library(DECIPHER) 
-aln0 <- readDNAStringSet('mhc2.clust0.aln.fa', format='fasta')
-aln1 <- readDNAStringSet('mhc2.clust1.aln.fa', format='fasta')
-aln2 <- readDNAStringSet('mhc2.clust2.aln.fa', format='fasta')
-
-(cons0 <- ConsensusSequence(aln0, threshold=0.05, ambiguity=T, ignoreNonBases=T, includeTerminalGaps=F))
-(cons1 <- ConsensusSequence(aln1, threshold=0.05, ambiguity=T, ignoreNonBases=T, includeTerminalGaps=F))
-(cons2 <- ConsensusSequence(aln2, threshold=0.05, ambiguity=T, ignoreNonBases=T, includeTerminalGaps=F))
-
-writeXStringSet(cons0, filepath='mhc2.clust0.cons.fa')
-writeXStringSet(cons1, filepath='mhc2.clust1.cons.fa')
-writeXStringSet(cons2, filepath='mhc2.clust2.cons.fa')
-
-q()
+# using the provided Rscript:
 
  
