@@ -1,0 +1,138 @@
+seqnames start end col Name product strand uniprot_id Parent type
+HiC_scaffold_31 3295 4653 blue mgat1 Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase + Q09325 CYGATRG00000351937 Other genes
+HiC_scaffold_31 10152 15080 blue trim27_5 Zinc finger protein RFP - P14373 CYGATRG00000351941 TRIM Family
+HiC_scaffold_31 22285 23519 blue trim7_2 E3 ubiquitin-protein ligase TRIM7 + Q923T7 CYGATRG00000351961 TRIM Family
+HiC_scaffold_31 26201 30231 blue clec2d C-type lectin domain family 2 member D + Q9UHP7 CYGATRG00000351967 C-type lectin
+HiC_scaffold_31 32919 36887 blue clec2e C-type lectin domain family 2 member E - Q80XD9 CYGATRG00000351979 C-type lectin
+HiC_scaffold_31 39001 42309 blue klrb1b_3 Killer cell lectin-like receptor subfamily B member 1B allele B + Q99JB4 CYGATRG00000351993 killer cell lectin
+HiC_scaffold_31 43441 45341 blue clec2d_2 C-type lectin domain family 2 member D - Q9UHP7 CYGATRG00000352009 C-type lectin
+HiC_scaffold_31 57666 59931 blue klrb1a_2 Killer cell lectin-like receptor subfamily B member 1A + P27471 CYGATRG00000352021 killer cell lectin
+HiC_scaffold_31 60422 70971 blue clec2g C-type lectin domain family 2 member G - Q9D676 CYGATRG00000352033 C-type lectin
+HiC_scaffold_31 77621 79974 blue clec2b C-type lectin domain family 2 member B - Q92478 CYGATRG00000352055 C-type lectin
+HiC_scaffold_31 82582 84231 blue klrb1b_2 Killer cell lectin-like receptor subfamily B member 1B allele B + Q99JB4 CYGATRG00000352069 killer cell lectin
+HiC_scaffold_31 86817 94048 blue znf692_2 Zinc finger protein 692 + A0JNJ4 CYGATRG00000352083 Zinc finger protein
+HiC_scaffold_31 96558 102835 blue trim7 E3 ubiquitin-protein ligase TRIM7 - Q923T7 CYGATRG00000352107 TRIM Family
+HiC_scaffold_31 201009 205293 blue trim27_4 Zinc finger protein RFP + P14373 CYGATRG00000352139 TRIM Family
+HiC_scaffold_31 207011 218557 blue trim27_2 Zinc finger protein RFP - P14373 CYGATRG00000352155 TRIM Family
+HiC_scaffold_31 222006 228432 blue trim27_3 Zinc finger protein RFP - P14373 CYGATRG00000352181 TRIM Family
+HiC_scaffold_31 251821 267310 blue trim27_6 Zinc finger protein RFP + P14373 CYGATRG00000352197 TRIM Family
+HiC_scaffold_31 277222 278502 blue znf271 Zinc finger protein 271 + Q5R5U3 CYGATRG00000352291 Zinc finger protein
+HiC_scaffold_31 280847 282202 blue znf629_2 Zinc finger protein 629 + Q6A085 CYGATRG00000352295 Zinc finger protein
+HiC_scaffold_31 284140 286065 blue znf271_2 Zinc finger protein 271 - Q5R5U3 CYGATRG00000352299 Zinc finger protein
+HiC_scaffold_31 289828 291866 blue znf436_2 Zinc finger protein 436 - Q5R5Y7 CYGATRG00000352305 Zinc finger protein
+HiC_scaffold_31 293695 298934 blue btn1a1_9 Butyrophilin subfamily 1 member A1 - Q13410 CYGATRG00000352313 Butyrophilin subfamily
+HiC_scaffold_31 302774 303382 blue mog_2 Myelin-oligodendrocyte glycoprotein - Q5R960 CYGATRG00000352319 Other genes
+HiC_scaffold_31 314537 316250 blue btn3a3_6 Butyrophilin subfamily 3 member A3 - O00478 CYGATRG00000352325 Butyrophilin subfamily
+HiC_scaffold_31 320753 325748 blue ermap Erythroid membrane-associated protein - Q96PL5 CYGATRG00000352335 Other genes
+HiC_scaffold_31 329865 334180 blue btn1a1_12 Butyrophilin subfamily 1 member A1 - Q13410 CYGATRG00000352353 Butyrophilin subfamily
+HiC_scaffold_31 337779 341745 blue btn1a1_3 Butyrophilin subfamily 1 member A1 - Q13410 CYGATRG00000352363 Butyrophilin subfamily
+HiC_scaffold_31 347699 351254 blue trim39 E3 ubiquitin-protein ligase TRIM39 - Q9ESN2 CYGATRG00000352375 TRIM Family
+HiC_scaffold_31 359529 360581 blue btn3a2_2 Butyrophilin subfamily 3 member A2 + P78410 CYGATRG00000352389 Butyrophilin subfamily
+HiC_scaffold_31 364429 365181 blue btn1a1_10 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352397 Butyrophilin subfamily
+HiC_scaffold_31 367579 373010 blue btn3a3_2 Butyrophilin subfamily 3 member A3 + O00478 CYGATRG00000352403 Butyrophilin subfamily
+HiC_scaffold_31 375681 379814 blue btn1a1_8 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352435 Butyrophilin subfamily
+HiC_scaffold_31 381533 387146 blue zfp3 Zinc finger protein 3 homolog - Q96NJ6 CYGATRG00000352459 Zinc finger protein
+HiC_scaffold_31 395401 403044 blue btn1a1_5 Butyrophilin subfamily 1 member A1 - Q13410 CYGATRG00000352469 Butyrophilin subfamily
+HiC_scaffold_31 410570 411679 blue ltb4r Leukotriene B4 receptor 1 - Q9R0Q2 CYGATRG00000352493 Other genes
+HiC_scaffold_31 416487 418827 blue znf626 Zinc finger protein 626 - Q68DY1 CYGATRG00000352497 Zinc finger protein
+HiC_scaffold_31 424954 428045 blue znf66 Putative zinc finger protein 66 - Q6ZN08 CYGATRG00000352507 Other genes
+HiC_scaffold_31 434160 437413 blue znf624_3 Zinc finger protein 624 - Q9P2J8 CYGATRG00000352517 Zinc finger protein
+HiC_scaffold_31 443513 446762 blue znf624_2 Zinc finger protein 624 - Q9P2J8 CYGATRG00000352527 Zinc finger protein
+HiC_scaffold_31 455700 459477 blue znf624 Zinc finger protein 624 + Q9P2J8 CYGATRG00000352537 Zinc finger protein
+HiC_scaffold_31 468509 470183 blue cd1d Antigen-presenting glycoprotein CD1d + Q4ACW4 CYGATRG00000352561 Other genes
+HiC_scaffold_31 475835 513943 blue tnxb Tenascin-X + P22105 CYGATRG00000352575 Other genes
+HiC_scaffold_31 514067 519735 blue cyp21 Steroid 21-hydroxylase - P00191 CYGATRG00000352647 Other genes
+HiC_scaffold_31 522814 526368 blue cenpa Histone H3-like centromeric protein A - Q6XXM1 CYGATRG00000352661 Other genes
+HiC_scaffold_31 532367 536681 blue btn3a3_5 Butyrophilin subfamily 3 member A3 - O00478 CYGATRG00000352671 Butyrophilin subfamily
+HiC_scaffold_31 541642 550968 blue c4_2 Complement C4 (Fragments) - P01030 CYGATRG00000352697 Other genes
+HiC_scaffold_31 565593 566561 blue NA MHC class I + NA ACKblast MHC class I
+HiC_scaffold_31 575513 576889 blue NA MHC class I + NA ACKblast2 MHC class I
+HiC_scaffold_31 578972 582008 blue tap2 Antigen peptide transporter 2 - Q03519 CYGATRG00000352755 TAP2
+HiC_scaffold_31 582967 588937 blue tap1 Antigen peptide transporter 1 + Q28433 CYGATRG00000352775 TAP1
+HiC_scaffold_31 597041 599595 blue mog Myelin-oligodendrocyte glycoprotein + Q63345 CYGATRG00000352799 Other genes
+HiC_scaffold_31 599850 601481 blue btn1a1_11 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352809 Butyrophilin subfamily
+HiC_scaffold_31 609560 611329 blue mog_3 Myelin-oligodendrocyte glycoprotein + Q63345 CYGATRG00000352817 Other genes
+HiC_scaffold_31 612947 616893 blue btn1a1_7 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352825 Butyrophilin subfamily
+HiC_scaffold_31 627076 632710 blue btn3a3_3 Butyrophilin subfamily 3 member A3 + O00478 CYGATRG00000352839 Butyrophilin subfamily
+HiC_scaffold_31 635668 639771 blue btn1a1_4 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352871 Butyrophilin subfamily
+HiC_scaffold_31 642631 646478 blue btn1a1 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352891 Butyrophilin subfamily
+HiC_scaffold_31 649775 653552 blue btn1a1_2 Butyrophilin subfamily 1 member A1 + Q13410 CYGATRG00000352909 Butyrophilin subfamily
+HiC_scaffold_31 654768 657759 blue hla-dmb HLA class II histocompatibility antigen, DM beta chain - P28068 CYGATRG00000352927 DMB
+HiC_scaffold_31 658653 660501 blue hla-dmb_2 HLA class II histocompatibility antigen, DM beta chain - P28068 CYGATRG00000352941 DMB
+HiC_scaffold_31 660868 661934 blue h2-dma Class II histocompatibility antigen, M alpha chain - P28078 CYGATRG00000352949 M-alpha
+HiC_scaffold_31 671877 687298 blue col11a2 Collagen alpha-2(XI) chain + Q32S24 CYGATRG00000352963 Other genes
+HiC_scaffold_31 693162 694644 blue mamu-dra Mamu class II histocompatibility antigen, DR alpha chain - Q30631 CYGATRG00000353089 DMA/DRA
+HiC_scaffold_31 695817 696761 red NA MHC class II + NA CYGATRG00000353099 MHC class II
+HiC_scaffold_31 702956 703901 red NA MHC class II - NA CYGATRG00000353113 MHC class II
+HiC_scaffold_31 707341 712959 blue brd2 Bromodomain-containing protein 2 - Q6MGA9 CYGATRG00000353127 BRD
+HiC_scaffold_31 731647 739459 blue mdc1 Mediator of DNA damage checkpoint protein 1 - Q5TM68 CYGATRG00000353171 Other genes
+HiC_scaffold_31 748216 754517 blue flot1 Flotillin-1 - Q9Z1E1 CYGATRG00000353207 Other genes
+HiC_scaffold_31 757687 758712 blue rps5 40S ribosomal protein S5 + P46782 CYGATRG00000353233 Other genes
+HiC_scaffold_31 759611 760186 blue rnf225 RING finger protein 225 + M0QZC1 CYGATRG00000353245 Other genes
+HiC_scaffold_31 761808 773844 blue gabbr1 Gamma-aminobutyric acid type B receptor subunit 1 - Q9WV18 CYGATRG00000353249 Other genes
+HiC_scaffold_31 785749 787701 blue znf431 Zinc finger protein 431 + Q8TF32 CYGATRG00000353295 Zinc finger protein
+HiC_scaffold_31 794005 795718 blue zscan2_2 Zinc finger and SCAN domain-containing protein 2 - Q5RCD9 CYGATRG00000353303 Other genes
+HiC_scaffold_31 798985 800784 blue znf665 Zinc finger protein 665 - Q9H7R5 CYGATRG00000353309 Zinc finger protein
+chr33 22123 23847 red znf665 Zinc finger protein 665 + Q5R8X1 CYGOLOG00000190457 Zinc finger protein
+chr33 35366 37787 red znf160 Zinc finger protein 160 - Q9HCG1 CYGOLOG00000190461 Zinc finger protein
+chr33 63698 64273 red rnf225 RING finger protein 225 - M0QZC1 CYGOLOG00000190467 Other genes
+chr33 65169 66216 red rps5 40S ribosomal protein S5 - P46782 CYGOLOG00000190471 Other genes
+chr33 69462 76084 red flot1 Flotillin-1 + Q7YR41 CYGOLOG00000190479 Other genes
+chr33 106273 108264 red col11a1_5 Collagen alpha-1(XI) chain + P12107 CYGOLOG00000190505 Other genes
+chr33 127921 129410 red mamu-dra Mamu class II histocompatibility antigen, DR alpha chain - Q30631 CYGOLOG00000190514 DMA/DRA
+chr33 130558 131501 blue NA MHC class II + NA CYGOLOG00000190521 MHC class II
+chr33 137914 138857 blue NA MHC class II man - NA CYGOLOG00000190530 MHC class II
+chr33 142275 147824 red brd2 Bromodomain-containing protein 2 - Q6MGA9 CYGOLOG00000190539 BRD
+chr33 151827 154395 red h2-dma Class II histocompatibility antigen, M alpha chain + P28078 CYGOLOG00000190554 M-alpha
+chr33 154834 156994 red h2-dmb1 Class II histocompatibility antigen, M beta 1 chain + P35737 CYGOLOG00000190561 Other genes
+chr33 157536 160311 red hla-dmb_2 HLA class II histocompatibility antigen, DM beta chain + P28068 CYGOLOG00000190569 DMB
+chr33 161434 162306 red btn1a1_8 Butyrophilin subfamily 1 member A1 - Q13410 CYGOLOG00000190578 Butyrophilin subfamily
+chr33 162779 165298 red btn3a2_4 Butyrophilin subfamily 3 member A2 - P78410 CYGOLOG00000190583 Butyrophilin subfamily
+chr33 173499 175381 red hla-dmb HLA class II histocompatibility antigen, DM beta chain + P28068 CYGOLOG00000190591 DMB
+chr33 183660 187440 red btn1a1_2 Butyrophilin subfamily 1 member A1 - Q13410 CYGOLOG00000190599 Butyrophilin subfamily
+chr33 199835 204943 red btn3a3_2 Butyrophilin subfamily 3 member A3 - O00478 CYGOLOG00000190610 Butyrophilin subfamily
+chr33 210779 214829 red btn3a3 Butyrophilin subfamily 3 member A3 - O00478 CYGOLOG00000190627 Butyrophilin subfamily
+chr33 222831 226454 red btn3a2_3 Butyrophilin subfamily 3 member A2 - P78410 CYGOLOG00000190641 Butyrophilin subfamily
+chr33 230455 236534 red tap1 Antigen peptide transporter 1 - Q28433 CYGOLOG00000190649 TAP1
+chr33 237470 240514 red tap2 Antigen peptide transporter 2 + Q03519 CYGOLOG00000190663 TAP2
+chr33 243906 242858 blue NA MHC class I manual - NA CYGOLOG00000190675 MHC class I
+chr33 250541 251768 blue NA MHC class I manual - NA CYGOLOG00000190686 MHC class I
+chr33 280343 284664 red btn3a3_5 Butyrophilin subfamily 3 member A3 + O00478 CYGOLOG00000190694 Butyrophilin subfamily
+chr33 290664 294153 red cenpa Histone H3-like centromeric protein A + Q6XXM1 CYGOLOG00000190707 Other genes
+chr33 294622 302959 red cyp21 Steroid 21-hydroxylase + Q2LA60 CYGOLOG00000190714 Other genes
+chr33 348343 350017 red cd1d_2 Antigen-presenting glycoprotein CD1d - Q4ACW4 CYGOLOG00000190727 Other genes
+chr33 359056 362834 red znf624 Zinc finger protein 624 - Q9P2J8 CYGOLOG00000190744 Zinc finger protein
+chr33 371778 376074 red znf250_2 Zinc finger protein 250 + Q7TNU6 CYGOLOG00000190751 Zinc finger protein
+chr33 381281 383639 red znf34_2 Zinc finger protein 34 + Q8IZ26 CYGOLOG00000190759 Zinc finger protein
+chr33 388454 389563 red ltb4r Leukotriene B4 receptor 1 + Q9R0Q2 CYGOLOG00000190766 Other genes
+chr33 397891 404457 red btn1a1 Butyrophilin subfamily 1 member A1 + Q13410 CYGOLOG00000190770 Butyrophilin subfamily
+chr33 420416 424545 red btn1a1_4 Butyrophilin subfamily 1 member A1 - Q13410 CYGOLOG00000190783 Butyrophilin subfamily
+chr33 426932 432603 red btn3a3_3 Butyrophilin subfamily 3 member A3 - O00478 CYGOLOG00000190797 Butyrophilin subfamily
+chr33 439827 446711 red btn3a2_5 Butyrophilin subfamily 3 member A2 - P78410 CYGOLOG00000190820 Butyrophilin subfamily
+chr33 447813 451362 red trim39 E3 ubiquitin-protein ligase TRIM39 + Q9ESN2 CYGOLOG00000190834 TRIM Family
+chr33 461102 465058 red btn1a1_3 Butyrophilin subfamily 1 member A1 + Q13410 CYGOLOG00000190843 Butyrophilin subfamily
+chr33 468640 472845 red btn1a1_9 Butyrophilin subfamily 1 member A1 + Q13410 CYGOLOG00000190854 Butyrophilin subfamily
+chr33 477384 480060 red btn3a2 Butyrophilin subfamily 3 member A2 + P78410 CYGOLOG00000190867 Butyrophilin subfamily
+chr33 480066 482653 red btn1a1_7 Butyrophilin subfamily 1 member A1 + Q13410 CYGOLOG00000190875 Butyrophilin subfamily
+chr33 484720 486592 red znf436_2 Zinc finger protein 436 + Q5R5Y7 CYGOLOG00000190882 Zinc finger protein
+chr33 488918 492248 red znf271 Zinc finger protein 271 + Q5R5U3 CYGOLOG00000190888 Zinc finger protein
+chr33 494182 495675 red znf629_2 Zinc finger protein 629 - Q6A085 CYGOLOG00000190894 Zinc finger protein
+chr33 497911 499191 red znf271_2 Zinc finger protein 271 - Q5R5U3 CYGOLOG00000190898 Zinc finger protein
+chr33 509046 524487 red trim27_3 Zinc finger protein RFP - Q62158 CYGOLOG00000190902 TRIM Family
+chr33 531782 536410 red rack1 Receptor of activated protein C kinase 1 + P63245 CYGOLOG00000190951 Other genes
+chr33 538468 543579 red trim41 E3 ubiquitin-protein ligase TRIM41 - Q8WV44 CYGOLOG00000190962 TRIM Family
+chr33 557326 562091 red trim27_4 Zinc finger protein RFP + P14373 CYGOLOG00000190971 TRIM Family
+chr33 564396 568887 red trim39_3 E3 ubiquitin-protein ligase TRIM39 + Q6MFZ5 CYGOLOG00000190981 TRIM Family
+chr33 570596 575087 red trim27 Zinc finger protein RFP - P14373 CYGOLOG00000190989 TRIM Family
+chr33 578727 583798 red trim39_4 E3 ubiquitin-protein ligase TRIM39 + Q6MFZ5 CYGOLOG00000190999 TRIM Family
+chr33 605380 614010 red trim7_2 E3 ubiquitin-protein ligase TRIM7 + Q9C029 CYGOLOG00000191015 TRIM Family
+chr33 642349 645339 red znf3 Zinc finger protein 3 - P17036 CYGOLOG00000191039 Zinc finger protein
+chr33 650038 656329 red trim7 E3 ubiquitin-protein ligase TRIM7 + Q923T7 CYGOLOG00000191044 TRIM Family
+chr33 658824 666062 red znf692 Zinc finger protein 692 - A0JNJ4 CYGOLOG00000191054 Zinc finger protein
+chr33 684305 685823 red clec2d_4 C-type lectin domain family 2 member D - Q9UHP7 CYGOLOG00000191075 C-type lectin
+chr33 696212 698000 red clec2d_3 C-type lectin domain family 2 member D + Q91V08 CYGOLOG00000191082 C-type lectin
+chr33 699226 700807 red cd209e CD209 antigen-like protein E - Q91ZW7 CYGOLOG00000191090 Other genes
+chr33 710319 712214 red clec2d_2 C-type lectin domain family 2 member D + Q9UHP7 CYGOLOG00000191097 C-type lectin
+chr33 713401 716752 red klrb1b Killer cell lectin-like receptor subfamily B member 1B allele B - Q99JB4 CYGOLOG00000191105 killer cell lectin
+chr33 718739 722678 red clec2e C-type lectin domain family 2 member E + Q80XD9 CYGOLOG00000191114 C-type lectin
+chr33 725374 725956 red clec2d C-type lectin domain family 2 member D - Q9UHP7 CYGOLOG00000191123 C-type lectin
