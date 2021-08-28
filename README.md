@@ -10,3 +10,5 @@ This pipeline describes on how to annotate MHC class I and II genes in both mute
 ![alt text](https://github.com/akaraw/MHC_complex_annotation_of_swans/blob/main/Rscripts/MHC_class_II_swans.png)
 
 ![alt text](https://github.com/akaraw/MHC_complex_annotation_of_swans/blob/main/Rscripts/MHC_class_bsmsswans.png)
+
+![alt text](https://github.com/akaraw/MHC_complex_annotation_of_swans/blob/main/Rscripts/MHC_class_bsmsswans.png)
